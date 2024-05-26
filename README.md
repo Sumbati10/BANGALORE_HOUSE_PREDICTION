@@ -8,7 +8,8 @@ This data science project series walks through step by step process of how to bu
 
 Data Collection - From Kaggle: https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
 
-Methodology / Approach
+**Methodology / Approach**
+
 My methodology for solving the problem of predicting home prices accurately in Bangalore involves leveraging the power of data and advanced machine learning techniques. The project follows a robust data science process, including data loading and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, and hyperparameter tuning using GridSearchCV and k-fold cross-validation.
 
 We have used Python as the primary programming language for developing the machine learning models libraries for optimized performance. The models built and trained were Linear Regression, Lasso, Decision Tree, Random forest, AdabOOST regression,  with the highest accuracy being the Random Forest model. Therefore, the Random forest regression model has been selected as the final model for prediction.
@@ -17,9 +18,10 @@ Additionally, I have used several other standard libraries such as pandas, numpy
 
 To make the project more user-friendly, I have developed a sleek and intuitive user interface using HTML, CSS, and JavaScript. The user interface allows users to input the necessary features and receive an instant price prediction.
 
-Furthermore, we have used a Flask server to consume the trained machine learning model and expose HTTP endpoints for various requests, enabling seamless integration with other applications and systems. We have also used a pickle file to store the trained model, making it easy to deploy and use in various environments.
+Furthermore, we have used a Flask server to consume the trained machine learning model and expose HTTP endpoints for various requests, enabling seamless integration with other applications and systems. I have also used a pickle file to store the trained model, making it easy to deploy and use in various environments.
 
 Overall, the methodology involves using advanced machine learning techniques, optimized libraries, and a user-friendly interface to develop a robust and efficient solution for predicting home prices accurately in Bangalore. My approach demonstrates the power of data science in solving real-world problems and provides a framework for developing similar machine-learning applications.
+
 
 1. Python
 2. Numpy and Pandas for data cleaning
