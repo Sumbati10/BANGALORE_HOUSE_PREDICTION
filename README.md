@@ -1,3 +1,6 @@
+## Authors
+[Sumbati Lindah](mailto:sumbatilinda@gmail.com)
+
 # Bengaluru House Price Prediction
 ![House Price Prediction Demo](https://github.com/Sumbati10/BANGALORE_HOUSE_PREDICTION/blob/main/DEMO/demo_Bengaluru.gif)
 
@@ -61,5 +64,10 @@ This is a complete end-to-end project from data cleaning, EDA, model selection t
 
 
 Flask API endpoints were created to fetch the list of locaitons and to predict the results.
+
+# Pattent Rights
+
+- This work is entirely the intelectual property of the **AUTHOR**: Lindah Sumbati
+- However, use of the files and the code is allowed for all. Enjoy your learning!
    
 
