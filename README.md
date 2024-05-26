@@ -34,7 +34,7 @@ Overall, the methodology involves using advanced machine learning techniques, op
 To run this project on your local machine:
 1. Clone the run-locally branch OR download zip file
 ```
-git clone https://github.com/ritwik4690/House-Price-Prediction.git --branch run-locally --single-branch
+git clone https://github.com/Sumbati10/BANGALORE_HOUSE_PREDICTION.git
 ```
 2. Change to the server directory
 ```
