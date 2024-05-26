@@ -50,7 +50,7 @@ pip install requirements.txt
 ```
 python server.py
 ```
-Your website should now be running on http://loaclhost:5000
+
 
 
 ## Conclusion
