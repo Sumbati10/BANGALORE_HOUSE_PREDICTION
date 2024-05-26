@@ -1,2 +1,2 @@
 # Bangalore House Price Prediction
-<video controls src="20240526-1105-01.6285149.mp4" title="Title"></video>
+https://github.com/Sumbati10/BANGALORE_HOUSE_PREDICTION/issues/1#issue-2317694622
