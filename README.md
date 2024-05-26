@@ -50,6 +50,7 @@ pip install requirements.txt
 ```
 python server.py
 ```
+<img width="950" alt="image" src="https://github.com/Sumbati10/BANGALORE_HOUSE_PREDICTION/assets/105505214/a824791b-a4e8-4711-af37-71f07f668e6f">
 
 
 
