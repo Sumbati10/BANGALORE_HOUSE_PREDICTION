@@ -12,7 +12,7 @@ Data Collection - From Kaggle: https://www.kaggle.com/datasets/amitabhajoy/benga
 
 My methodology for solving the problem of predicting home prices accurately in Bangalore involves leveraging the power of data and advanced machine learning techniques. The project follows a robust data science process, including data loading and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, and hyperparameter tuning using GridSearchCV and k-fold cross-validation.
 
-We have used Python as the primary programming language for developing the machine learning models libraries for optimized performance. The models built and trained were Linear Regression, Lasso, Decision Tree, Random forest, AdabOOST regression,  with the highest accuracy being the Random Forest model. Therefore, the Random forest regression model has been selected as the final model for prediction.
+I have used Python as the primary programming language for developing the machine learning models libraries for optimized performance. The models built and trained were Linear Regression, Lasso, Decision Tree, Random forest, AdabOOST regression,  with the highest accuracy being the Random Forest model. Therefore, the Random forest regression model has been selected as the final model for prediction.
 
 Additionally, I have used several other standard libraries such as pandas, numpy, flask, request, and matplotlib.
 
