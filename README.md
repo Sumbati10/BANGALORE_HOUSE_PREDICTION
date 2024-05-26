@@ -56,6 +56,10 @@ python server.py
 
 ## Conclusion
 
-This is a complete end-to-end project from data cleaning, EDA, model selection to deploying and creating UI. While choosing models, GridSearchCV was used along with k-fold cross validation. In this, **Random Forest Regression** gave the best accuracy. Flask API endpoints were created to fetch the list of locaitons and to predict the results.
+This is a complete end-to-end project from data cleaning, EDA, model selection to deploying and creating UI. While choosing models, GridSearchCV was used along with k-fold cross validation. In this, **Random Forest Regression** gave the best accuracy.
+<img width="410" alt="image" src="https://github.com/Sumbati10/BANGALORE_HOUSE_PREDICTION/assets/105505214/caafb686-6d56-424c-b687-78dcd78ec72f">
+
+
+Flask API endpoints were created to fetch the list of locaitons and to predict the results.
    
 
