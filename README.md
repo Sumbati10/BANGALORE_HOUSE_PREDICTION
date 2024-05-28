@@ -38,6 +38,23 @@ Overall, the methodology involves using advanced machine learning techniques, op
 6. Python flask for http server
 7. HTML/CSS/Javascript for UI
 
+## EDA
+<img width="541" alt="image" src="https://github.com/Sumbati10/BANGALORE_HOUSE_PREDICTION/assets/105505214/45d301c0-f20a-4ee7-ad67-1a31bbbf64ee">
+<img width="548" alt="image" src="https://github.com/Sumbati10/BANGALORE_HOUSE_PREDICTION/assets/105505214/5ab43fe4-4597-481d-a592-22ad04bb6fe4">
+
+## MODEL 
+Linear Regression
+Lasso
+Decision Tree
+Random forest
+AdabOOST regression
+And others 
+
+Considering the bias variance trade-off and the evaluation metrics, the best performing model was Random Forest Regression with optimized parameters.
+
+<img width="382" alt="image" src="https://github.com/Sumbati10/BANGALORE_HOUSE_PREDICTION/assets/105505214/4cfc881e-d1a8-4308-88b1-253baae492f9">
+
+
 ## Run this project locally
 
 To run this project on your local machine:
